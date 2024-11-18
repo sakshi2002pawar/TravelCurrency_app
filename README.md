@@ -9,3 +9,5 @@ Technologies Used
 Frontend: Built with React for a dynamic, fast user experience.
 Backend: [API](Link to your API or service) for fetching live exchange rates (or a mock API if it’s a demo).
 Styling: Styled with Tailwind CSS for a modern, responsive design.
+
+website: https://voluble-rolypoly-93f15b.netlify.app/
